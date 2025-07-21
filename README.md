@@ -106,9 +106,9 @@ existeSecuenciaDeAmigos redEjemplo (2, "Bob") (3, "Carlos")
 
 ## Equipo de Desarrollo
 
+- **Diessler Bernardo**
 - **Fernández Ana Celeste**  
 - **Galli Casado Sastre Lucas Federico**
-- **Peralta Diessler Bernardo**
 
 ## Cómo Ejecutar
 
